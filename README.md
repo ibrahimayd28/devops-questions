@@ -1,33 +1,41 @@
 # DevOps Soruları
 ---
+DevOps Questions
+---
 ## 1. DevOps'un İş Dünyasına Katkıları
 
-![DevOps'un İş Dünyasına Katkıları](https://nebosystems.eu/wp-content/uploads/2024/02/devops-services-1.jpg)
+![DevOps'un İş Dünyasına Katkıları note](https://nebosystems.eu/wp-content/uploads/2024/02/devops-services-1.jpg)
 
-- **Hız ve Çeviklik:** Şirketlerin pazardaki değişikliklere hızlı yanıt vermesine olanak tanır.
-- **Verimlilik:** Tekrarlayan görevler otomasyon ile azaltılır.
-- **Yazılım Kalitesi:** Sürekli test ve izleme süreçleri ile artırılır.
-- **Ekipler Arası Uyum:** Geliştirme ve operasyon ekipleri arasında işbirliği sağlanır.
-- **Müşteri Memnuniyeti:** Daha hızlı ve güvenilir güncellemeler ile sağlanır.
+- Hız ve çeviklik sağlar.
+- Yazılım geliştirme ve dağıtım süreçlerini hızlandırır, şirketlerin pazardaki değişikliklere hızlı yanıt vermesine yardımcı olur.
+- Otomasyonla tekrarlayan görevler azalır, verimlilik artar.
+- Sürekli test ve izleme ile yazılım kalitesi yükselir.
+- Geliştirme ve operasyon ekipleri arasında uyumlu çalışma ortamı oluşur.
+- Müşteri/kullanıcı memnuniyeti artar; daha hızlı ve güvenilir güncellemeler sağlanır.
 
 ---
 
 ## 2. DevOps Workflow'unda Ana Komponentler
 
-![DevOps Workflow](https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/devops.png)
+![Devops WorkFlow](https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/devops.png)
 
-- **CI (Continuous Integration):** Kodların birleştirilip test edilmesi.
-- **CD (Continuous Delivery):** Kodun hızlı ve güvenli bir şekilde üretime taşınması.
-- **Automation:** Tekrarlayan işler otomatikleştirilir.
-- **Log and Monitoring:** Sistem sağlığının sürekli izlenmesi ve raporlanması.
-- **Feedback:** Süreçlerin geri bildirimlerle iyileştirilmesi.
+**Cevap:**
+
+- **CI (Continuous Integration):** Sürekli entegrasyon; kodların birleştirilip test edilmesi.
+- **CD (Continuous Delivery):** Sürekli teslimat; kodun hızlı ve güvenli şekilde üretime taşınması.
+- **Automation:** Tekrarlayan işleri otomatikleştirir, zamandan ve emekten tasarruf sağlar.
+- **Log and Monitoring:** Yazılım performansının ve sistem sağlığının sürekli izlenip raporlanması.
+- **Feedback:** Geri bildirim mekanizmaları sayesinde süreç iyileştirilir.
 
 ---
 
 ## 3. DevOps Lifecycle (Yaşam Döngüsü) Fazları
 
-![DevOps Lifecycle](https://habrastorage.org/getpro/habr/upload_files/b5e/0e2/91d/b5e0e291df43c4a7caeb985d54177be5.png)
+![Yaşam Döngüsü](https://habrastorage.org/getpro/habr/upload_files/b5e/0e2/91d/b5e0e291df43c4a7caeb985d54177be5.png)
 
+**Cevap:**
+
+DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur. 8 aşaması var:
 1. **Planlama**
 2. **Tasarım ve Kodlama**
 3. **Derleme**
@@ -43,11 +51,13 @@
 
 ![DevOps Tools](https://www.gitkraken.com/wp-content/uploads/2021/06/og-devops-dark-e1624654502560.png)
 
-- **Git:** Sürüm kontrolü.
-- **Jenkins:** CI/CD süreçlerinin yönetimi.
-- **Docker:** Uygulamaların konteynerler içinde paketlenmesi.
-- **Kubernetes:** Konteynerlerin yönetimi.
-- **Prometheus & Grafana:** Log tutma ve izleme.
+**Cevap:**
+
+- **Git:** Sürüm kontrolü için kullanılır.
+- **Jenkins:** CI/CD süreçleri yönetilir.
+- **Docker:** Uygulamalar konteynerler içinde paketlenir.
+- **Kubernetes:** Konteynerlerin yönetimini kolaylaştırır.
+- **Prometheus & Grafana:** Log tutma ve izleme işlemleri için idealdir.
 
 ---
 
@@ -55,20 +65,25 @@
 
 ![Başarı](https://miro.medium.com/v2/resize:fit:1400/1*luCZ2LuvkuNxJWPS2KjV_Q.png)
 
-- **Kültürel Değişim:** Ekipler arası işbirliği ve iletişim.
+**Cevap:**
+
+- **Kültürel Değişim:** Ekipler arası işbirliği, iletişim ve şeffaflık.
 - **Otomasyon:** Süreçlerin otomatikleştirilmesi.
-- **Sürekli İyileştirme:** Performansın sürekli gözden geçirilmesi.
-- **İzleme ve Geri Bildirim:** Kullanıcı geri dönüşlerinin değerlendirilmesi.
-- **Güvenlik:** Süreçlere entegre edilmesi.
+- **Sürekli İyileştirme:** Sürekli gözden geçirme ve geliştirme.
+- **İzleme ve Geri Bildirim:** Performansın izlenmesi, kullanıcı geri dönüşlerinin değerlendirilmesi.
+- **Güvenlik:** Tüm süreçlere entegre edilmiş güvenlik.
 
 ---
 
 ## 6. Container Nedir? DevOps ile Bağı Nedir?
 
-![Container](https://cdn.hashnode.com/res/hashnode/image/upload/v1700133534084/a47f0002-88b2-4343-9dfb-7dcd59d32d3a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+![Konteyner](https://cdn.hashnode.com/res/hashnode/image/upload/v1700133534084/a47f0002-88b2-4343-9dfb-7dcd59d32d3a.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
-- **Container:** Uygulama, dosya ve eklentilerin izole bir ortamda paketlenmesidir.
-- **DevOps İlişkisi:** Konteynerler hızlı ve güvenilir bir şekilde uygulamaların dağıtımını sağlar.
+**Cevap:**
+
+- Konteyner, uygulama, dosya, eklenti vb. her şeyi izole bir ortamda paketler.
+- Docker gibi teknolojiler sayesinde, uygulamalar farklı ortamlarda sorunsuz çalışır.
+- DevOps'ta konteynerler, hızlı ve güvenilir dağıtım imkanı sunar.
 
 ---
 
@@ -76,8 +91,11 @@
 
 ![Sürüm Kontrolü](https://gitops.ru/img/gitops.png)
 
-- Kodların tüm sürümleri kayıt altına alınır ve değişiklikler takip edilir.
-- Geriye dönük değişikliklerde, hatalı durumlarda önceki sürüme kolayca geçiş yapılabilir.
+**Cevap:**
+
+- Kodların tüm sürümlerini kaydeder, değişiklikleri takip etmeyi sağlar.
+- Hatalı değişiklikler yapıldığında veya akış bozulduğunda, önceki sürüme kolayca dönebilirsiniz.
+- Kodların evrimi sırasında doğru versiyona geri dönüş imkanı sunar.
 
 ---
 
@@ -85,18 +103,21 @@
 
 ![CI](https://assets-global.website-files.com/64a01cd18357f65c0f873b79/64d3cfa4ca7fe84ad2aa8f4b_blog-post1.jpg)
 
-- **CI:** Kodların sık sık birleştirilip, otomatik testlerle doğrulanmasıdır.
-- **Avantaj:** Hataların erken tespiti ve yazılım kalitesinin artırılması.
+**Cevap:**
+
+- Sürekli entegrasyon; yazılım ekiplerinin kod değişikliklerini sık sık birleştirip, otomatik testlerle doğrulaması sürecidir.
+- Hataların erken tespit edilmesini ve yazılım kalitesinin artmasını sağlar.
 
 ---
 
 ## 9. CD (Continuous Delivery/Deployment) Nedir?
 
-![CD](https://cdn.hashnode.com/res/hashnode/image/upload/v1694983021885/2f74856c-4d51-486a-862a-0cff00b9d5b6.png)
+![CD](https://cdn.hashnode.com/res/hashnode/image/upload/v1694983021885/2f74856c-4d51-486a-862a-0cff00b9d5b6.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
-- **CD:** Test edilmiş kodun üretim ortamına hızlı bir şekilde taşınmasıdır.
-- **Continuous Delivery:** Kodun her zaman yayınlanmaya hazır tutulması.
-- **Continuous Deployment:** Otomatik dağıtım süreçleri.
+**Cevap:**
+
+- Sürekli teslimat veya dağıtım; test edilmiş kodun üretim ortamına taşınmasıdır.
+- Kod her zaman yayınlanmaya hazır tutulur, bazı durumlarda otomatik dağıtım da uygulanır.
 
 ---
 
@@ -104,11 +125,13 @@
 
 ![HTTP](https://s3.amazonaws.com/media-p.slid.es/uploads/1024155/images/6056460/pasted-from-clipboard.png)
 
-1. **GET:** Veri alma.
-2. **POST:** Veri gönderme.
-3. **PUT:** Veriyi tamamen güncelleme.
-4. **DELETE:** Veri silme.
-5. **PATCH:** Veriyi kısmen güncelleme.
+**Cevap:**
+
+1. **GET:** Server’dan veri almak.
+2. **POST:** Server’a veri göndermek.
+3. **PUT:** Veriyi tamamen güncellemek.
+4. **DELETE:** Veriyi silmek.
+5. **PATCH:** Veriyi kısmen güncellemek.
 
 ---
 
@@ -116,8 +139,10 @@
 
 ![Otomasyon](https://assets-global.website-files.com/64a01cd18357f65c0f873b79/64d3cfa4ca7fe84ad2aa8f4b_blog-post1.jpg)
 
-- **Otomasyon:** Tekrarlayan görevlerin otomatikleştirilmesi.
-- **Avantaj:** İnsan hatalarını azaltır, süreçleri hızlandırır.
+**Cevap:**
+
+- Otomasyon, tekrarlayan ve sıkıcı görevleri kendi kendine yapabilme imkanı tanır.
+- Böylece insan hataları azaltılır, işler daha güvenilir ve verimli şekilde yürütülür.
 
 ---
 
@@ -125,25 +150,28 @@
 
 ![VM vs Container](https://blog.greencloudvps.com/wp-content/uploads/2024/02/container-vs-vm-1.jpg)
 
-- **VM (Virtual Machine):** Her bir kullanıcı için ayrı bir işletim sistemi çalıştırır. Daha ağır ve kaynak tüketimi yüksektir.
-- **Container:** Daha hafif ve hızlı bir çözüm sunar, sadece uygulamayı ve bağımlılıkları içerir.
+**Cevap:**
+
+- **VM (Virtual Machine):** Her kullanıcıya ayrı bir işletim sistemi çalıştıran kutu verir; kaynak kullanımı yüksek, daha yavaştır.
+- **Container:** Uygulama ve gerekli dosyaları izole ortamda çalıştırır; hafif, hızlı ve taşınabilirdir.
+- Bu yüzden DevOps'ta konteynerler, hızlı dağıtım ve güncelleme için tercih edilir.
 
 ---
 
-### Görsel Kaynakça
-
-- **Görsel 1:** [nebosystems.eu](https://nebosystems.eu/)
-- **Görsel 2:** [paloaltonetworks.com](https://www.paloaltonetworks.com/)
-- **Görsel 3:** [habrastorage.org](https://habrastorage.org/getpro)
-- **Görsel 4:** [gitkraken.com](https://www.gitkraken.com/)
-- **Görsel 5:** [medium.com](https://miro.medium.com/)
-- **Görsel 6:** [hashnode.com](https://cdn.hashnode.com/)
-- **Görsel 7:** [gitops.ru](https://gitops.ru/)
-- **Görsel 8:** [website-files.com](https://assets-global.website-files.com/)
-- **Görsel 9:** [hashnode.com](https://cdn.hashnode.com/)
-- **Görsel 10:** [s3.amazonaws.com](https://s3.amazonaws.com/)
-- **Görsel 11:** [website-files.com](https://assets-global.website-files.com/)
-- **Görsel 12:** [greencloudvps.com](https://blog.greencloudvps.com/)
+**KAYNAKÇA**  
+---  
+- **Görsel 1:** *[https://nebosystems.eu/](https://nebosystems.eu/)*  
+- **Görsel 2:** *[https://www.paloaltonetworks.com/](https://www.paloaltonetworks.com/)*  
+- **Görsel 3:** *[https://habrastorage.org/getpro](https://habrastorage.org/getpro)*  
+- **Görsel 4:** *[https://www.gitkraken.com/](https://www.gitkraken.com/)*  
+- **Görsel 5:** *[https://miro.medium.com/](https://miro.medium.com/)*  
+- **Görsel 6:** *[https://cdn.hashnode.com/](https://cdn.hashnode.com/)*  
+- **Görsel 7:** *[https://gitops.ru/](https://gitops.ru/)*  
+- **Görsel 8:** *[https://assets-global.website-files.com/](https://assets-global.website-files.com/)*  
+- **Görsel 9:** *[https://cdn.hashnode.com/](https://cdn.hashnode.com/)*  
+- **Görsel 10:** *[https://s3.amazonaws.com/](https://s3.amazonaws.com/)*  
+- **Görsel 11:** *[https://assets-global.website-files.com/](https://assets-global.website-files.com/)*  
+- **Görsel 12:** *[https://blog.greencloudvps.com/](https://blog.greencloudvps.com/)*  
 ---
 
 ### Kaynakça

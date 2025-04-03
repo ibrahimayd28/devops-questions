@@ -132,7 +132,12 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 3. **PUT:** Veriyi tamamen güncellemek.
 4. **DELETE:** Veriyi silmek.
 5. **PATCH:** Veriyi kısmen güncellemek.
+6. **CONNECT:** Hedef, kaynakta belirtilen sunucuya doğru bir bağlantı kurar.
+7. **OPTIONS:** Hedef kaynak için iletişim seçeneklerini açıklar.
+8. **TRACE:** Hedef sunucuya giden yol boyunca bir message loop-back (ileti geri döngü) testi gerçekleştirir.
 
+## Mesaj Döngüsü Geri Beslemesi
+Mesaj döngüsü geri beslemesi, bir mesajın gönderildiği yere geri döndürülerek iletişim yolunun veya sistemin kendi içinde test edilmesidir.
 ---
 
 ## 11. DevOps'da Otomasyonun Önemi
@@ -188,3 +193,4 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 - **Kaynakça 10:** [Kaynakça 10](https://www.msazureturkey.com/devops-source-control-surum-kontrolu/)
 - **Kaynakça 11:** [Kaynakça 11](https://www.msazureturkey.com/)
 - **Kaynakça 12:** [Kaynakça 12](https://bilginc.com/tr/blog/devops-lifecycle-nedir-1323/)
+- **Kaynakça 13:** [Kaynakça 13](https://alkanfatih.com/http-nedir/)

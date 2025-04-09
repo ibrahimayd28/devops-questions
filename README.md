@@ -6,7 +6,7 @@
 
 ## 1. DevOps'un İş Dünyasına Katkıları
 
-DevOps, hız ve çeviklik sağlayarak yazılım geliştirme ve dağıtım süreçlerini hızlandırır. Şirketlerin pazardaki değişikliklere hızlı yanıt vermesine yardımcı olur. Otomasyonla tekrarlayan görevlerin azalmasıyla verimlilik artar. Sürekli test ve izleme ile yazılım kalitesi yükselir. Ayrıca, geliştirme ve operasyon ekipleri arasında uyumlu bir çalışma ortamı oluşturur. Bu süreçler müşteri ve kullanıcı memnuniyetini artırır; daha hızlı ve güvenilir güncellemeler sağlanır.
+DevOps, hız ve çeviklik sağlayarak yazılım geliştirme ve dağıtım süreçlerini hızlandırır. Şirketlerin pazardaki değişikliklere hızlı yanıt vermesine yardımcı olur. Otomasyonla tekrarlayan görevlerin azalmasıyla verimlilik artar. Sürekli test ve izleme ile yazılımın kalitesi yükselir. Ayrıca, geliştirme ve operasyon ekipleri arasında uyumlu bir çalışma ortamı oluşturur. Bu süreçler müşteri ve kullanıcı memnuniyetini artırır; daha hızlı ve güvenilir güncellemeler sağlanır.
 
 ---
 

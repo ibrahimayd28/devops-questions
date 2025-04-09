@@ -106,6 +106,7 @@ HTTP Request türleri arasında sırasıyla:
 ## 11. DevOps'da Otomasyonun Önemi
 
 Otomasyon, tekrarlayan ve zaman alıcı görevlerin bilgisayarlar veya yazılımlar tarafından kendi başına yapılmasını sağlayarak, insan müdahalesine olan ihtiyacı azaltır. Bu sayede, tekrarlayan işlerde oluşabilecek insan hataları en aza indirilir, süreçler daha güvenilir hale gelir ve hata payı ortadan kalkar. Ayrıca, otomasyon sayesinde işler daha hızlı, verimli ve düzenli şekilde yürütülür. İnsanlar, daha yaratıcı ve stratejik görevlere odaklanabilirken, otomasyon basit ve tekrarlayan işleri devralır, bu da genel iş akışını iyileştirir ve verimliliği artırır.
+
 ---
 
 ![VM vs Container](https://blog.greencloudvps.com/wp-content/uploads/2024/02/container-vs-vm-1.jpg)

@@ -6,12 +6,7 @@
 
 ## 1. DevOps'un İş Dünyasına Katkıları
 
-- Hız ve çeviklik sağlar.
-- Yazılım geliştirme ve dağıtım süreçlerini hızlandırır, şirketlerin pazardaki değişikliklere hızlı yanıt vermesine yardımcı olur.
-- Otomasyonla tekrarlayan görevler azalır, verimlilik artar.
-- Sürekli test ve izleme ile yazılım kalitesi yükselir.
-- Geliştirme ve operasyon ekipleri arasında uyumlu çalışma ortamı oluşur.
-- Müşteri/kullanıcı memnuniyeti artar; daha hızlı ve güvenilir güncellemeler sağlanır.
+DevOps, hız ve çeviklik sağlayarak yazılım geliştirme ve dağıtım süreçlerini hızlandırır. Şirketlerin pazardaki değişikliklere hızlı yanıt vermesine yardımcı olur. Otomasyonla tekrarlayan görevlerin azalmasıyla verimlilik artar. Sürekli test ve izleme ile yazılım kalitesi yükselir. Ayrıca, geliştirme ve operasyon ekipleri arasında uyumlu bir çalışma ortamı oluşturur. Bu süreçler müşteri ve kullanıcı memnuniyetini artırır; daha hızlı ve güvenilir güncellemeler sağlanır.
 
 ---
 
@@ -19,13 +14,7 @@
 
 ## 2. DevOps Workflow'unda Ana Komponentler
 
-**Cevap:**
-
-- **CI (Continuous Integration):** Sürekli entegrasyon; kodların birleştirilip test edilmesi.
-- **CD (Continuous Delivery):** Sürekli teslimat; kodun hızlı ve güvenli şekilde üretime taşınması.
-- **Automation:** Tekrarlayan işleri otomatikleştirir, zamandan ve emekten tasarruf sağlar.
-- **Log and Monitoring:** Yazılım performansının ve sistem sağlığının sürekli izlenip raporlanması.
-- **Feedback:** Geri bildirim mekanizmaları sayesinde süreç iyileştirilir.
+DevOps workflow'unun ana bileşenleri arasında sürekli entegrasyon (CI), sürekli teslimat (CD), otomasyon, log tutma ve izleme, geri bildirim mekanizmaları bulunur. CI, kodların birleştirilip test edilmesini sağlarken, CD kodun hızlı ve güvenli şekilde üretime taşınmasını hedefler. Otomasyon, tekrarlayan işleri kolaylaştırır. Log ve monitoring araçları sistem sağlığını izleyip raporlar. Geri Bildirim mekanizmaları ise süreçlerin sürekli iyileştirilmesini sağlar.
 
 ---
 
@@ -33,7 +22,7 @@
 
 ## 3. DevOps Lifecycle (Yaşam Döngüsü) Fazları
 
-DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur. 8 aşaması bulunuyor:
+DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur. Toplamda 8 aşamadan oluşmaktadır:
 1. **Planlama:** Projenin hedefleri, kapsamı ve gereksinimleri belirlenir.
 2. **Tasarım ve Kodlama:** Yazılımın mimarisi oluşturulur ve kaynak kodu yazılır.
 3. **Derleme:** Yazılan kodun çalıştırılabilir bir formata dönüştürülme sürecidir.
@@ -42,18 +31,15 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 6. **Dağıtım:** Yayınlanan yazılımın müşteriye/kullanıcıya ulaştırılması sağlanır.
 7. **İzleme:** Yazılımn performansı ve oluşabilecek potansiyel sorunların çözümü bu aşamada sağlanır.
 8. **Geri Bildirim:** Kullanıcı/müşteri alınan geri bildirim ve dönüşlere göre yazılımda farklılıklar ve geliştirmeler sağlanır
-
 ---
 
 ![DevOps Tools](https://www.gitkraken.com/wp-content/uploads/2021/06/og-devops-dark-e1624654502560.png)
 
 ## 4. Trend Olan DevOps Araçları
 
-**Cevap:**
-
-- **Git:** Sürüm kontrolü için kullanılır.
-- **Jenkins:** CI/CD süreçleri yönetilir.
-- **Docker:** Uygulamalar konteynerler içinde paketlenir.
+- **Git:** Projelerdeki değişiklikleri takip etmek ve yönetmek için kullanılan güçlü bir sürüm kontrol sistemidir.
+- **Jenkins:** Sürekli Teslimat [CI]/Sürekli Teslimat [CD] süreçlerini yönetmek için kullanılır.
+- **Docker:** Uygulamalaya dosya, uzantı, konteynerler hâlinde paketlemek için kullanılan araçlardır.
 - **Kubernetes:** Konteynerlerin yönetimini kolaylaştırır.
 - **Prometheus & Grafana:** Log tutma ve izleme işlemleri için idealdir.
 
@@ -63,13 +49,7 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 
 ## 5. Başarılı Bir DevOps Süreci
 
-**Cevap:**
-
-- **Kültürel Değişim:** Ekipler arası işbirliği, iletişim ve şeffaflık.
-- **Otomasyon:** Süreçlerin otomatikleştirilmesi.
-- **Sürekli İyileştirme:** Sürekli gözden geçirme ve geliştirme.
-- **İzleme ve Geri Bildirim:** Performansın izlenmesi, kullanıcı geri dönüşlerinin değerlendirilmesi.
-- **Güvenlik:** Tüm süreçlere entegre edilmiş güvenlik.
+Başarılı bir DevOps süreci, ekipler arası işbirliği, etkin iletişim ve şeffaflık gibi kültürel değişimlere dayanır. Süreçlerin otomatikleştirilmesi, sürekli gözden geçirilmesi ve geliştirilmesi önemli bir yer tutar. Performansın düzenli olarak izlenmesi, kullanıcı geri dönüşlerinin dikkatle değerlendirilmesi ve bu verilerin süreçlere dahil edilmesi gerekir. Ayrıca, güvenlik önlemleri tüm aşamalara entegre edilerek riskler en aza indirilir.
 
 ---
 
@@ -77,11 +57,7 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 
 ## 6. Container Nedir? DevOps ile Bağı Nedir?
 
-**Cevap:**
-
-- Konteyner, uygulama, dosya, eklenti vb. her şeyi izole bir ortamda paketler.
-- Docker gibi teknolojiler sayesinde, uygulamalar farklı ortamlarda sorunsuz çalışır.
-- DevOps'ta konteynerler, hızlı ve güvenilir dağıtım imkanı sunar.
+Konteyner, uygulama, dosya ve eklentileri izole bir ortamda paketler, böylece taşınabilirlik ve uyumluluk sağlar. Docker gibi teknolojiler sayesinde uygulamalar, farklı ortamlarda sorunsuz ve tutarlı bir şekilde çalıştırılabilir. DevOps süreçlerinde konteynerler, hızlı ve güvenilir dağıtım, test ve ölçeklendirme imkanı sunarak iş akışını kolaylaştırır ve verimliliği artırır.
 
 ---
 
@@ -89,11 +65,7 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 
 ## 7. Sürüm Kontrolünün Önemi
 
-**Cevap:**
-
-- Kodların tüm sürümlerini kaydeder, değişiklikleri takip etmeyi sağlar.
-- Hatalı değişiklikler yapıldığında veya akış bozulduğunda, önceki sürüme kolayca dönebilirsiniz.
-- Kodların evrimi sırasında doğru versiyona geri dönüş imkanı sunar.
+Sürüm kontrolü, kodların tüm sürümlerini kaydederek yapılan değişikliklerin detaylı bir şekilde takip edilmesini sağlar. Bu sistem, kod üzerinde yapılan her güncellemeyi, kim tarafından ve ne zaman yapıldığını kayıt altına alır. Hatalı değişiklikler yapıldığında ya da uygulama akışında bir sorun oluştuğunda, kolaylıkla önceki bir sürüme geri dönme imkanı tanır. Böylece hem zamandan tasarruf edilir hem de güvenilir bir geliştirme süreci sağlanır. Aynı zamanda, bir ekip içinde birden fazla kişinin aynı kod üzerinde çalışmasını kolaylaştırarak kodların evrimi sırasında doğru versiyona geri dönüşü ve işbirliğini destekler.
 
 ---
 
@@ -101,10 +73,7 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 
 ## 8. CI (Continuous Integration) Nedir?
 
-**Cevap:**
-
-- Sürekli entegrasyon; yazılım ekiplerinin kod değişikliklerini sık sık birleştirip, otomatik testlerle doğrulaması sürecidir.
-- Hataların erken tespit edilmesini ve yazılım kalitesinin artmasını sağlar.
+Sürekli entegrasyon, yazılım geliştirme süreçlerinde ekiplerin kod değişikliklerini sık sık bir araya getirerek entegre etmesini ve bu entegrasyonları otomatik testlerle doğrulamasını sağlayan bir yaklaşımdır. Bu yöntem, kodda meydana gelebilecek hataların erken tespit edilmesine olanak tanır ve ekiplerin sorunları çözmesini kolaylaştırır. Süreç, yalnızca hataların önüne geçmekle kalmaz, aynı zamanda yazılımın genel kalitesini artırır ve geliştirme sürecinde daha sorunsuz bir iş akışı sağlar. Ayrıca, sürekli entegrasyon, yazılım teslimat sürelerini kısaltarak daha hızlı ve güvenilir güncellemelerin sunulmasına yardımcı olur.
 
 ---
 
@@ -112,10 +81,7 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 
 ## 9. CD (Continuous Delivery/Deployment) Nedir?
 
-**Cevap:**
-
-- Sürekli teslimat veya dağıtım; test edilmiş kodun üretim ortamına taşınmasıdır.
-- Kod her zaman yayınlanmaya hazır tutulur, bazı durumlarda otomatik dağıtım da uygulanır.
+Sürekli teslimat veya dağıtım, yazılım geliştirme sürecinde test edilmiş ve doğrulanmış kodun üretim ortamına taşınmasını sağlayan bir uygulamadır. Bu yaklaşım, kodun her zaman yayınlanmaya hazır bir durumda tutulmasını hedefler. Geliştiriciler, yeni özellikler veya güncellemeler eklediklerinde bu değişiklikler otomatik testlerden geçirilir ve dağıtılabilir bir duruma getirilir. Sürekli teslimat süreçlerinde, bazı durumlarda manuel onay gerekebilirken, sürekli dağıtım modelinde bu adım otomatikleştirilmiştir. Bu yöntem, yazılım güncellemelerinin hızlı, güvenilir ve tutarlı bir şekilde son kullanıcıya ulaştırılmasını mümkün kılar.
 
 ---
 
@@ -123,7 +89,8 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 
 ## 10. HTTP Request Tipleri Nelerdir?
 
-**Cevap:**
+HTTP Request türleri arasında sırasıyla:
+
 1. **GET:** Server’dan veri almak.
 2. **POST:** Server’a veri göndermek.
 3. **PUT:** Veriyi tamamen güncellemek.
@@ -132,32 +99,20 @@ DevOps yaşam döngüsü, sürekli iyileştirme ve otomasyon üzerine kuruludur.
 6. **CONNECT:** Hedef, kaynakta belirtilen sunucuya doğru bir bağlantı kurar.
 7. **OPTIONS:** Hedef kaynak için iletişim seçeneklerini açıklar.
 8. **TRACE:** Hedef sunucuya giden yol boyunca bir message loop-back (ileti geri döngü) testi gerçekleştirir.
-
-**Mesaj Döngüsü Geri Beslemesi:**  
-Mesaj döngüsü geri beslemesi, bir mesajın gönderildiği yere geri döndürülerek iletişim yolunun veya sistemin kendi içinde test edilmesidir.
-
 ---
 
 ![Otomasyon](https://assets-global.website-files.com/64a01cd18357f65c0f873b79/64d3cfa4ca7fe84ad2aa8f4b_blog-post1.jpg)
 
 ## 11. DevOps'da Otomasyonun Önemi
 
-**Cevap:**
-
-- Otomasyon, tekrarlayan ve sıkıcı görevleri kendi kendine yapabilme imkanı tanır.
-- Böylece insan hataları azaltılır, işler daha güvenilir ve verimli şekilde yürütülür.
-
+Otomasyon, tekrarlayan ve zaman alıcı görevlerin bilgisayarlar veya yazılımlar tarafından kendi başına yapılmasını sağlayarak, insan müdahalesine olan ihtiyacı azaltır. Bu sayede, tekrarlayan işlerde oluşabilecek insan hataları en aza indirilir, süreçler daha güvenilir hale gelir ve hata payı ortadan kalkar. Ayrıca, otomasyon sayesinde işler daha hızlı, verimli ve düzenli şekilde yürütülür. İnsanlar, daha yaratıcı ve stratejik görevlere odaklanabilirken, otomasyon basit ve tekrarlayan işleri devralır, bu da genel iş akışını iyileştirir ve verimliliği artırır.
 ---
 
 ![VM vs Container](https://blog.greencloudvps.com/wp-content/uploads/2024/02/container-vs-vm-1.jpg)
 
 ## 12. Container ve VM Arasındaki Farklar
 
-**Cevap:**
-
-- **VM (Virtual Machine):** Her kullanıcıya ayrı bir işletim sistemi çalıştıran kutu verir; kaynak kullanımı yüksek, daha yavaştır.
-- **Container:** Uygulama ve gerekli dosyaları izole ortamda çalıştırır; hafif, hızlı ve taşınabilirdir.
-- Bu yüzden DevOps'ta konteynerler, hızlı dağıtım ve güncelleme için tercih edilir.
+Virtual Machine (VM), her kullanıcıya kendi işletim sistemini çalıştırma imkanı sunan sanal kutulardır. Bu, izole bir ortam sağlar ama kaynak kullanımı oldukça yüksek ve performans açısından daha yavaştır. Konteynerler ise, sadece uygulama ve gerekli dosyaları izole bir ortamda çalıştırır. Bu yol, daha hafif ve hızlıdır. Konteynerler, işletim sistemi üzerinde daha az yer kapladığı için verimli çalışır ve hızlı dağıtım, güncelleme gibi özellileri ile tercih edilen bir yapıdır. Bu sayede, yazılım geliştirme ve dağıtımı daha hızlı ve güvenilir hale gelir.
 
 ---
 
